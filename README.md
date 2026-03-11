@@ -2,6 +2,9 @@
 
 This project is a versatile data parser designed to convert unstructured data (such as text, emails, logs, or raw documents) into structured formats like JSON, CSV, or databases. It leverages regular expressions, natural language processing (NLP), and custom rules to extract meaningful information from chaotic data sources.Key features:Supports multiple input formats: TXT, PDF, HTML, emails, etc.
 
+><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/890dd7a2-9e5c-4610-afb4-ff7c51fd9d22" />
+
+
 Outputs in structured formats: JSON, CSV, XML, or SQL inserts.
 
 Customizable parsing rules via configuration files.
